@@ -24,4 +24,4 @@ An advanced Python-based AI chatbot with a graphical user interface.
 - Add voice input/output
 
 ## 👨‍💻 Author
-Samarth Saraswat
+Samarth Sharma
