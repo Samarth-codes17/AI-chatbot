@@ -1,67 +1,27 @@
-# 🤖 Advanced Mini GPT Chatbot
+# 🤖 AI Chatbot with GUI
 
-## 📌 Overview
-
-This project is a GUI-based chatbot built using Python.
-It simulates human conversation and responds to multiple types of user inputs.
-
----
+An advanced Python-based AI chatbot with a graphical user interface.
 
 ## 🚀 Features
+- Chat-based interaction
+- GUI using Tkinter
+- Beginner-friendly project
+- Easy to expand with APIs
 
-* Graphical User Interface (Tkinter)
-* Interactive chat system
-* Remembers user name
-* Provides study and coding tips
-* Tells jokes and motivational responses
-* Displays current time
-* Simulated current affairs responses
+## 🛠️ Tech Used
+- Python
+- Tkinter
 
----
-
-## 🛠️ Technologies Used
-
-* Python
-* Tkinter
-
----
-
-## ▶️ How to Run
-
-1. Install Python
-2. Download this repository
+## 📂 How to Run
+1. Download the project
+2. Open terminal
 3. Run:
+   python chatbot.py
 
-```
-python chatbot_gui.py
-```
-
----
-
-## 💡 Example
-
-```
-You: hello  
-Bot: Hello! What is your name?
-
-You: my name is Samarth  
-Bot: Nice to meet you, Samarth!
-```
-
----
-
-## 📈 Future Improvements
-
-* Real AI integration
-* Voice chatbot
-* Better UI
-
----
+## 🎯 Future Improvements
+- Add real-time current affairs API
+- Improve AI responses
+- Add voice input/output
 
 ## 👨‍💻 Author
-
-Samarth
-
----
-
-⭐ This project showcases my learning in Python and software development.
+Samarth Saraswat
