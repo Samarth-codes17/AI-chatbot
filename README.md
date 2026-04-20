@@ -25,8 +25,7 @@ An advanced Python-based AI chatbot with a graphical user interface.
 
 ## 👨‍💻 Author
 Samarth Sharma
-## 📸 Demo
+demo.png
 
-![Chatbot Screenshot](Screenshot.png)
 
 
