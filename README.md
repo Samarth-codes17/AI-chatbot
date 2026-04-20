@@ -28,6 +28,7 @@ Samarth Sharma
 ## 📸 Demo
 
 ![Chatbot Screenshot](demo.png)
+[![Watch Demo](demo.png)](https://youtu.be/TCusGhTtJsk)
 
 
 
